@@ -1,2 +1,3 @@
-# LabInvcentoryManagementSystem
+# LabInventoryManagementSystem
 The LIMS Project.
+@christuniversity.
